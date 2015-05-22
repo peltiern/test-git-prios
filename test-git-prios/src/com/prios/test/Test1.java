@@ -9,5 +9,5 @@ package com.prios.test;
  */
 public class Test1 {
 
-	private String test1;
+	private String test1SuiteMaster;
 }
